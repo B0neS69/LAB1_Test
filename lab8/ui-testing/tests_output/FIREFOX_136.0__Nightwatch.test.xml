@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="Nightwatch.test" id="Nightwatch.test"
+    errors="0" failures="0" hostname="" package="Nightwatch.test" skipped="0"
+    tests="3" time="16.89" timestamp="">
+  
+    <testcase name="Логотип має бути видимим" classname="Nightwatch.test" time="4.052" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Авторизація користувача" classname="Nightwatch.test" time="7.382" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Пошук товару Laptop" classname="Nightwatch.test" time="5.450" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
