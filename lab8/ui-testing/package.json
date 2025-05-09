@@ -209,8 +209,7 @@
     "playwright": "playwright test tests/Playwright.test.js",
     "testcafe": "testcafe chrome tests/TestCafe.test.js",
     "puppeteer": "node tests/Puppeteer.test.js",
-    "nightwatch": "nightwatch tests/Nightwatch.test.js",
-    "testim": "jest tests/Testim.test.js"
+    "nightwatch": "nightwatch tests/Nightwatch.test.js"
   },
   "keywords": [],
   "author": "",
